@@ -6,7 +6,7 @@ CREATE TABLE "employees"
     last_name VARCHAR NOT NULL,
     department VARCHAR NOT NULL,
     salary INT NOT NULL,
-    age INT NOT NULL,
+    age INT NOT NULL
 
 
 )
